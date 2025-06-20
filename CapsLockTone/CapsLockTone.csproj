@@ -6,10 +6,12 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>arrow-up-svgrepo-com.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
     <None Remove="arrow-up-svgrepo-com.ico" />
+    <None Remove="Resources\arrow-up-svgrepo-com.ico" />
   </ItemGroup>
 
   <ItemGroup>
@@ -18,6 +20,10 @@
 
   <ItemGroup>
     <Content Include="arrow-up-svgrepo-com.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\arrow-up-svgrepo-com.ico" />
   </ItemGroup>
 
   <ItemGroup>
