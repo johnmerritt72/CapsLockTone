@@ -1,0 +1,1 @@
+This simple app plays a low audio tone continuously while the Caps Lock is turned on. This is helpful for people who like to use Caps Lock frequently, but without looking at the screen.  There are settings for the tone frequency and volume, accessible through the app's tray icon.
