@@ -34,6 +34,6 @@ This project is licensed under the MIT License.
 ## Credits
 - [NAudio](https://github.com/naudio/NAudio) for audio playback
 - Icon by [SVG Repo](https://www.svgrepo.com/)
-- 
+  
 ### AI Tools Used
 In the interest of transparancy, this project was coded with the aid of GitHub Copilot.
